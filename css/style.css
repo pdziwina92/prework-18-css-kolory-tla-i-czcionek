@@ -1,0 +1,43 @@
+body{
+    background-color: blanchedalmond;
+}
+
+h1{
+    background-color:rgb(255, 188, 107);
+}
+
+.par1{
+    background-color: rgb(240, 134, 4);
+}
+
+h2{
+    background-color: rgb(175, 150, 38);
+}
+
+.par2{
+    background-color: rgb(193, 159, 117);
+}
+
+ol{
+    background-color: rgb(255, 255, 57);
+}
+
+.element1{
+    color: blue;
+}
+
+.element2{
+    color: red;
+}
+
+.element3{
+    color: green;
+}
+
+.element4{
+    color: pink;
+}
+
+.element5{
+    color: orange;
+}
